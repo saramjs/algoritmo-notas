@@ -1,0 +1,10 @@
+Nome: Marcos, Nota1: 3.00, Nota2: 5.00, Média: 4.00
+Nome: Leticia, Nota1: 10.00, Nota2: 10.00, Média: 10.00
+Nome: Maria, Nota1: 7.00, Nota2: 2.00, Média: 4.50
+Nome: Luan, Nota1: 2.00, Nota2: 9.00, Média: 5.50
+Nome: Marcela, Nota1: 4.00, Nota2: 6.00, Média: 5.00
+Nome: Bianca, Nota1: 9.00, Nota2: 8.00, Média: 8.50
+Nome: Ana, Nota1: 7.00, Nota2: 9.00, Média: 8.00
+Nome: Lucas, Nota1: 2.00, Nota2: 7.00, Média: 4.50
+Nome: Felipe, Nota1: 7.00, Nota2: 9.00, Média: 8.00
+Nome: Paula, Nota1: 6.00, Nota2: 8.00, Média: 7.00
